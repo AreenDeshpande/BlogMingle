@@ -2,9 +2,5 @@ import React from 'react'
 
 
 export default function About() {
-  return (
-    <div>
-      
-    </div>
-  )
+  return(<h1 className='text-red-500'>Test</h1>)
 }
